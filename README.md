@@ -14,3 +14,8 @@
 
 #### Admin-Sign-In
 <img src="https://user-images.githubusercontent.com/53793285/182633955-4771c572-f822-45d1-accd-66459c4ef895.jpg" width="600">
+
+
+#### Upload Video Content
+<img src="https://user-images.githubusercontent.com/53793285/182634385-43ad3633-1c1f-4151-9523-af0cd423518c.jpg" width="600">
+
