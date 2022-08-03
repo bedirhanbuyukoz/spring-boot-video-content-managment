@@ -26,6 +26,6 @@
 
 
 #### Delete Video Content
-<img src="https://user-images.githubusercontent.com/53793285/182648831-6d7d410c-67e4-45f8-b752-30b8f4c85f3d.jpg" width="300"><img src="https://user-images.githubusercontent.com/53793285/182648899-59d33bb7-3193-4639-8e8a-608cb6f12b7d.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/53793285/182648831-6d7d410c-67e4-45f8-b752-30b8f4c85f3d.jpg" width="300"><br><img src="https://user-images.githubusercontent.com/53793285/182648899-59d33bb7-3193-4639-8e8a-608cb6f12b7d.jpg" width="300">
 
 
