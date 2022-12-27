@@ -28,7 +28,7 @@ public class VideoController {
         return new ResponseEntity<>(HttpStatus.OK);
     }
 
-    @GetMapping//api/book
+    @GetMapping//api/all video
     public ResponseEntity<?> getAllVideos()
     {
         return new ResponseEntity<>(videoService.findAllVideos(),HttpStatus.OK);
