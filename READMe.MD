@@ -2,11 +2,11 @@
 
 
 #### Sign-Up
-![sign-up](https://user-images.githubusercontent.com/53793285/210261956-3c6bec91-bd49-4f85-b844-376c0288cdef.jpg)
+<img src = "https://user-images.githubusercontent.com/53793285/210261956-3c6bec91-bd49-4f85-b844-376c0288cdef.jpg"  width="600">
 
 
 #### Sign-In
-![sign-in](https://user-images.githubusercontent.com/53793285/210261970-6612223c-0ab9-4183-8a9c-089f7dde9315.jpg)
+<img src = "https://user-images.githubusercontent.com/53793285/210261970-6612223c-0ab9-4183-8a9c-089f7dde9315.jpg"  width="600">
 
 
 
